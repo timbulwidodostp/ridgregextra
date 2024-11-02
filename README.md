@@ -1,6 +1,8 @@
 # ridgregextra
 ridge regression parameter estimation Use ridgereg_k And ridge_reg And vif_k (ridgregextra) With (In) R Software
 
+https://www.youtube.com/watch?v=INDttNCglig
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
